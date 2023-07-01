@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">"Blowcard"</string>
+    <string name="version">"Ver:"</string>
+    <string name="code">"AM-BC-V02"</string>
+    <string name="action_scan">SCAN</string>
+    <string name="action_stop">STOP</string>
+    <string name="action_restart">Restart</string>
+
+    <string name="title_activity_device_list">Devices</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="prompt_select_one">Select One</string>
+
+
+    <!--************* TAB LABELS *****************-->
+    <string name="label_status">Status</string>
+    <string name="label_settings">Settings</string>
+    <string name="label_diagnostics">Diagnostics</string>
+    <string name="label_exit">Exit Application</string>
+
+    <!--************** LABELS ************************-->
+    <string name="label_operating_params">Live Operating Status</string>
+    <string name="label_op_status">Status</string>
+    <string name="label_stop_motor">Motor</string>
+    <string name="label_stop_error">Error</string>
+    <string name="label_stop_reason">Reason</string>
+    <string name="label_stop_value">Value</string>
+
+    <!--************** Bluetooth ***********************-->
+    <string name="msg_bluetooth_connecting">Connecting</string>
+    <string name="msg_bluetooth_not_connect">Connection Failed</string>
+    <string name="msg_bluetooth_start_scanning">Scanning for Bluetooth Devices</string>
+    <string name="msg_bluetooth_stop_scanning">Scanning Stopped</string>
+    <string name="msg_bluetooth_connected">Connected to Bluetooth Device</string>
+    <string name="msg_bluetooth_disconnected">Disconnected from Bluetooth Device</string>
+
+
+    <!--******************* Content Description *************-->
+    <string name="desc_logo">Microspin Logo</string>
+
+    <!--******************* Operation Parameters ************************-->
+    <string name="label_cylinder_rpm">Cylinder RPM</string>
+    <string name="label_beater_rpm">Beater RPM</string>
+    <string name="label_production_min">Production - Total Output (m)</string>
+    <string name="label_currentLen">Current Length (m)</string>
+    <string name="label_startLen">Start Length (m)</string>
+
+    <!--******************* Settings ************************-->
+    <string name="label_delivery_speed">Delivery speed (m/min)</string>
+    <string name="label_tension_draft">Tension Draft (%)</string>
+    <string name="label_cylinder_speed">Cylinder Speed (rpm)</string>
+    <string name="label_cylinder_feed">Cylinder Feed (rpm)</string>
+    <string name="label_beater_speed">Beater Speed (rpm)</string>
+    <string name="label_beater_feed">Beater Feed (rpm)</string>
+    <string name="label_conveyor_speed">Conveyor Speed (rpm)</string>
+    <string name="label_trunk_delay">Trunk Level Timer (sec)</string>
+    <string name="label_length_limit">Length Limit (mtrs)</string>
+    <string name="label_length_correction">Length Corrector </string>
+    <string name="msg_setting_updated">Settings Updated</string>
+    <string name="msg_setting_saved">Settings Saved</string>
+    <string name="msg_setting_updating">Updating Settings</string>
+    <string name="msg_setting_zeroed">Current Length Zeroed </string>
+
+    <!--******************* Diagnose ************************-->
+    <string name="label_diagnose_type">Test Type</string>
+    <string name="label_diagnose_motor_name">Motor Name</string>
+    <string name="label_diagnose_ip_signal">Signal Voltage (%)</string>
+    <string name="label_diagnose_run_time">Test Run Time (s)</string>
+    <string name="label_diagnose_motor_maxRPM">Max Motor RPM </string>
+    <string name="label_diagnose_target_rpm_percent">Target (%) </string>
+    <string name="label_diagnose_target_rpm">Target RPM  </string>
+    <string name="label_diagnose_live_rpm">Actual RPM </string>
+    <string name="btn_diagnose_run">Run Diagnose</string>
+    <string name="msg_diagnose_running">Running Diagnosis</string>
+    <string name="msg_diagnose_complete_success">Diagnosis Completed Successfully</string>
+    <string name="msg_diagnose_complete_fail">Diagnosis Completed. Failed to reach Target! </string>
+    <string name="msg_diagnose_Incomplete">Diagnosis Completed. Motor Error!</string>
+
+    <string name="msg_halt_restart">Restart Machine</string>
+
+</resources>
