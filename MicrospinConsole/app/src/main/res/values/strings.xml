@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">"Blowcard"</string>
     <string name="version">"Ver:"</string>
-    <string name="code">"AM-BC-V02"</string>
+    <string name="code">"IL-BC-V02"</string>
     <string name="action_scan">SCAN</string>
     <string name="action_stop">STOP</string>
     <string name="action_restart">Restart</string>
